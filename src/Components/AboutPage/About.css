@@ -1,0 +1,44 @@
+.aboutpage-acont{
+    padding: 90px 0px 0px 0px;
+}
+.aboutpage-acont2{
+    padding: 0px 0px 90px 0px;
+}
+
+.aboutpage-acontent{
+    margin-left: 40px;
+    text-align: justify;
+}
+
+.aboutpage-acontent>p:first-child{
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.281);
+}
+
+.aboutpage-head{
+    padding-bottom:0px ;
+}
+.aboutpage-mission{
+    padding: 90px 0px 90px 0px;
+    display: flex;
+}
+
+.aboutpage-div1{
+    flex-basis: 40%;
+    display: flex;
+    justify-content: space-around;
+}
+.aboutpage-div1>img{
+    width: 70%;
+}
+.aboutpage-over-cont{
+  padding: 25px 0px 0px 0px;
+  margin-left: 10%;
+}
+.aboutpage-over-cont>ul>li{
+    color: #999999;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+
