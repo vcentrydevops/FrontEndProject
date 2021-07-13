@@ -87,7 +87,7 @@ export default function Home() {
                         <p>As an IT company, Amtex Info Solutions has been extending services in various domains of Software/IT development, innovation and optimization premises since 2008.</p>
                         <p>As in today's global market, companies that offer flexible, agile and efficient services are preferred the most.</p>
                         <p>Thus, with an impeccable team over the desk, Amtex Info Solutions has renowned all the fame of it.</p>
-                        <div><NavLink to="/" onClick={scrollUp}>Read More</NavLink></div>
+                        <div><NavLink to="/about" onClick={scrollUp}>Read More</NavLink></div>
                     </div>
                 </div>
                 <div className="caurosellap-cont">
@@ -142,7 +142,7 @@ export default function Home() {
                     <p>To give the best, we have a Vision". Join us in our Mission!</p>
                 </div>
                 <div className="carrer-div2">
-                    <NavLink to="/" onClick={scrollUp}>Apply now</NavLink>
+                    <NavLink to="/contactus" onClick={scrollUp}>Apply now</NavLink>
                 </div>
             </div>
             <ClientCarousels></ClientCarousels>
