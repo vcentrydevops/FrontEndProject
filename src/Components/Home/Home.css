@@ -164,11 +164,10 @@
 .tech-cont{
     width: 100%;
     display: flex;
-    justify-content: space-around; 
+    justify-content: space-around !important; 
 }
 .techn-div{
     width: 20%;
-    /* background-color: brown; */
 }
 .techn-div>div:first-child{
     overflow: hidden;
