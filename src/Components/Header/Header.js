@@ -66,16 +66,16 @@ export default function Header() {
                         </li>
                         <li className="nav-technology navlink-menu"><div><NavLink className="navlink-btn navlink-btn1" to="/">Technologies<i><BiCaretDown className="navlink-btn-icon"></BiCaretDown></i></NavLink></div>
                             <div className="navlinks-div">
-                                <NavLink to="/" onClick={scrollUp}>Oracle</NavLink>
-                                <NavLink to="/" onClick={scrollUp}>SAP</NavLink>
-                                <NavLink to="/" onClick={scrollUp}>Infor</NavLink>
-                                <NavLink to="/" onClick={scrollUp}>Microsoft</NavLink>
-                                <NavLink to="/" onClick={scrollUp}>Workday</NavLink>
-                                <NavLink to="/" onClick={scrollUp}>Peoplesoft</NavLink>
-                                <NavLink to="/" onClick={scrollUp}>JD Edwards</NavLink>
-                                <NavLink to="/" onClick={scrollUp}>Hyperion</NavLink>
+                                <NavLink to="/tech/oracle" onClick={scrollUp}>Oracle</NavLink>
+                                <NavLink to="/tech/sap" onClick={scrollUp}>SAP</NavLink>
+                                <NavLink to="/tech/infor" onClick={scrollUp}>Infor</NavLink>
+                                <NavLink to="/tech/microsoft" onClick={scrollUp}>Microsoft</NavLink>
+                                <NavLink to="/tech/workday" onClick={scrollUp}>Workday</NavLink>
+                                <NavLink to="/tech/peoplesoft" onClick={scrollUp}>Peoplesoft</NavLink>
+                                <NavLink to="/tech/jdedwards" onClick={scrollUp}>JD Edwards</NavLink>
+                                <NavLink to="/tech/hyperion" onClick={scrollUp}>Hyperion</NavLink>
                                 <NavLink to="/" onClick={scrollUp}>Buisness Intelligence</NavLink>
-                                <NavLink to="/" onClick={scrollUp}>Silebel</NavLink>
+                                <NavLink to="/tech/siebel" onClick={scrollUp}>Silebel</NavLink>
                             </div>
                         </li>
                         <li className="nav-client"><div><NavLink className="navlink-btn" to="/client" onClick={scrollUp}>Client</NavLink></div></li>
