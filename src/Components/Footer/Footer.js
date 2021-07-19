@@ -41,13 +41,13 @@ export default function Footer() {
                </div>
                <div className="fs-list">
                    <ul>
-                            <li><NavLink to="/" onClick={scrollUp}>Portal & Social Collaboration</NavLink></li>
-                            <li><NavLink to="/" onClick={scrollUp}>Web Content Management</NavLink></li>
-                            <li><NavLink to="/" onClick={scrollUp}>Digital Asset Management</NavLink></li>
-                            <li><NavLink to="/" onClick={scrollUp}>Buisness Intelligence</NavLink></li>
-                            <li><NavLink to="/" onClick={scrollUp}>Application Security</NavLink></li>
-                            <li><NavLink to="/" onClick={scrollUp}>Enterprise IT Consulting</NavLink></li>
-                            <li><NavLink to="/" onClick={scrollUp}>Quality is our Core</NavLink></li>
+                            <li><NavLink to="/solution/portals_social_collaboration" onClick={scrollUp}>Portal & Social Collaboration</NavLink></li>
+                            <li><NavLink to="/solution/webcontentmanagement" onClick={scrollUp}>Web Content Management</NavLink></li>
+                            <li><NavLink to="/solution/digital_asset_management" onClick={scrollUp}>Digital Asset Management</NavLink></li>
+                            <li><NavLink to="/buisness_intel" onClick={scrollUp}>Buisness Intelligence</NavLink></li>
+                            <li><NavLink to="/solution/appliction_security" onClick={scrollUp}>Application Security</NavLink></li>
+                            <li><NavLink to="/solution/enterprise_it_consulting" onClick={scrollUp}>Enterprise IT Consulting</NavLink></li>
+                            <li><NavLink to="/solution/quality_is_our_core" onClick={scrollUp}>Quality is our Core</NavLink></li>
                    </ul>
                </div>
            </div>
