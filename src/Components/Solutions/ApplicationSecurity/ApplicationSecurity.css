@@ -1,0 +1,20 @@
+.appliction-sec-cont{
+    padding: 15px 0px 15px 0px;
+    background-color: #fff;
+}
+.app-sec-firstdiv{
+    padding: 40px 0px 0px 0px !important;
+}
+.appliction-sec-cont>.aboutus-head{
+    flex-basis: 92%;
+    text-align: justify;
+    margin-left: 1.2%;
+    padding: 15px 0px 15px 0px;
+}
+.appliction-sec-cont>.aboutus-head>.about-content>ul{
+    margin-left: 3%;
+}
+.appliction-sec-cont>.aboutus-head>.about-content>ul>li{
+    color: rgb(0,0,0,0.450);
+    font-weight: 500;
+}

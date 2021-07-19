@@ -10,16 +10,16 @@ export default function NavBar(props) {
     }
     return (
         <div className="navbar-back">
-        <div>
-            <p>{pageName}</p>
+            <div>
+                <p>{pageName}</p>
+            </div>
+            <div>
+                <ul>
+                    <li><NavLink to="/" onClick={scrollUp}>Home</NavLink></li>
+                    <p>/</p>
+                    <li><NavLink to={navLink} onClick={scrollUp}>{pageName}</NavLink></li>
+                </ul>
+            </div>
         </div>
-        <div>
-            <ul>
-                <li><NavLink to="/" onClick={scrollUp}>Home</NavLink></li>
-                <p>/</p>
-                <li><NavLink to={navLink} onClick={scrollUp}>{pageName}</NavLink></li>
-            </ul>
-        </div>
-    </div>
     )
 }

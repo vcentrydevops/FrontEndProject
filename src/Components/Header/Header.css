@@ -89,7 +89,7 @@
   .navlinks-div{
       display: grid;
       position: relative;
-      top:36px;
+      top:20px;
       background-color: #19202e;
       padding: 5px 0px 5px 0px;
       visibility: hidden;

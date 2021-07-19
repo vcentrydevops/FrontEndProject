@@ -8,8 +8,8 @@ export default function ContactUs() {
     return (
         <div>
             <NavBar pageName={"Contact Us"} navLink={"/contactus"}></NavBar>
-            <div className="aboutus-cont">
-                <div className="aboutus-head contact-ls">
+            <div className="aboutus-cont contactus-cont">
+                <div className="aboutus-head">
                     <div className="about-heading">
                         <h3>Get in Touch</h3>
                         <div></div>

@@ -1,0 +1,27 @@
+.buisness-cont{
+    background-color: rgba(153, 153, 153, 0.1);
+    padding: 40px 0px 20px 0px;
+}
+
+.buisness-cont2{
+    background-color: #ffffff;
+}
+
+.buisness-cont>.aboutus-head{
+    flex-basis: 100%;
+    margin-left: 1.2%;
+    text-align: justify;
+}
+
+.buisness-cont>.aboutus-head>.about-content>p{
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.450);
+}
+.buisness-cont2>.aboutus-head>.about-content{
+    margin-left:7%;
+}
+.buisness-cont2>.aboutus-head>.about-content>ul>li{
+    color: rgba(0, 0, 0, 0.450);;
+    font-weight: 500;
+    font-size: 16px;
+}

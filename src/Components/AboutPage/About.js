@@ -47,7 +47,7 @@ export default function About() {
                     </div>
                 </div>
             </div>
-            <div className="aboutpage-mission">
+            <div className="aboutpage-mission aboutpage-overview">
                 <div className="aboutus-head" >
                     <div className="about-heading">
                         <h3>Overview</h3>

@@ -1,0 +1,33 @@
+.portal-social-cont{
+    padding: 40px 0px 20px 0px;
+}
+.portal-social-cont>.aboutus-head{
+    flex-basis: 50%;
+}
+.portal-social-cont>.aboutus-head>.about-content{
+    text-align: justify;
+}
+.portal-social-cont>.aboutus-head{
+    margin-left: 3.5%;
+}
+.portal-social-cont>.aboutus-head>.about-content>p:first-child{
+   color: rgb(0, 0, 0,0.450); 
+   font-weight: 500;
+}
+
+.portal-social-img{
+    display: flex;
+    justify-content: center;
+}
+.portal-social-img{
+    flex-basis: 50%;
+}
+.portal-social-img>img{
+    width: 95%;
+}
+.portal-social-cont2{
+    padding: 20px 0px 20px 10px;
+}
+.portal-social-cont2>.aboutus-head{
+    margin-left:3.5% ;
+}

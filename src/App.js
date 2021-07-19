@@ -19,6 +19,13 @@ import Peoplesoft from './Components/Technologies/Peoplesoft'
 import JdEdwards from './Components/Technologies/JdEdwards'
 import Hyperion from './Components/Technologies/Hyperion';
 import Siebel from './Components/Technologies/Siebel';
+import BuisnessIntel from './Components/BuisnessIntelligence/BuisnessIntel';
+import Portals_Social from './Components/Solutions/Portals_Social/Portals_Social';
+import WebContent from './Components/Solutions/WebContentManage/WebContent';
+import DigitalAssetManage from './Components/Solutions/DigitalAssetManage/DigitalAssetManage';
+import ApplicationSecurity from './Components/Solutions/ApplicationSecurity/ApplicationSecurity';
+import EnterprisesConsulting from './Components/Solutions/EnterprisesITconsult/EnterprisesConsulting';
+import QualityIsOurCore from './Components/Solutions/QualityCore/QualityIsOurCore';
 
 function App() {
   const [handelScroll, sethandelScroll] = useState()
@@ -57,6 +64,13 @@ function App() {
           <Route path="/tech/jdedwards" component={JdEdwards}></Route>
           <Route path="/tech/hyperion" component={Hyperion}></Route>
           <Route path="/tech/siebel" component={Siebel}></Route>
+          <Route path="/buisness_intel" component={BuisnessIntel}></Route>
+          <Route path="/solution/portals_social_collaboration" component={Portals_Social}></Route>
+          <Route path="/solution/webcontentmanagement" component={WebContent}></Route>
+          <Route path="/solution/digital_asset_management" component={DigitalAssetManage}></Route>
+          <Route path="/solution/appliction_security" component={ApplicationSecurity}></Route>
+          <Route path="/solution/enterprise_it_consulting" component={EnterprisesConsulting}></Route>
+          <Route path="/solution/quality_is_our_core" component={QualityIsOurCore}></Route>
           <Route path='/' component={Home} ></Route>
         </Switch>
         <Footer></Footer>

@@ -43,7 +43,7 @@ export default function Header() {
                     <ul>
                         <li className="nav-about"><div><NavLink className="navlink-btn" to="/about" onClick={scrollUp}>About us</NavLink></div></li>
                         <li className="nav-service navlink-menu">
-                            <div><NavLink className="navlink-btn navlink-btn1" to="/" onClick={scrollUp}>Services<i><BiCaretDown className="navlink-btn-icon"></BiCaretDown></i></NavLink></div>
+                            <div><p className="navlink-btn navlink-btn1">Services<i><BiCaretDown className="navlink-btn-icon"></BiCaretDown></i></p></div>
                             <div className="navlinks-div">
                                 <NavLink to="/" onClick={scrollUp}>Application Development</NavLink>
                                 <NavLink to="/" onClick={scrollUp}>Mobile App Development</NavLink>
@@ -53,18 +53,18 @@ export default function Header() {
                                 <NavLink to="/" onClick={scrollUp}>IT Staffing Services</NavLink>
                             </div>
                         </li>
-                        <li className="nav-solution navlink-menu"><div><NavLink className="navlink-btn navlink-btn1" to="/">Solutions<i><BiCaretDown className="navlink-btn-icon"></BiCaretDown></i></NavLink></div>
+                        <li className="nav-solution navlink-menu"><div><p className="navlink-btn navlink-btn1">Solutions<i><BiCaretDown className="navlink-btn-icon"></BiCaretDown></i></p></div>
                             <div className="navlinks-div">
-                                <NavLink to="/" onClick={scrollUp}>Portal & Social Collaboration</NavLink>
-                                <NavLink to="/" onClick={scrollUp}>Web Content Management</NavLink>
-                                <NavLink to="/" onClick={scrollUp}>Digital Asset Management</NavLink>
-                                <NavLink to="/" onClick={scrollUp}>Buisness Intelligence</NavLink>
-                                <NavLink to="/" onClick={scrollUp}>Application Security</NavLink>
-                                <NavLink to="/" onClick={scrollUp}>Enterprise IT Consulting</NavLink>
-                                <NavLink to="/" onClick={scrollUp}>Quality is our Core</NavLink>
+                                <NavLink to="/solution/portals_social_collaboration" onClick={scrollUp}>Portal & Social Collaboration</NavLink>
+                                <NavLink to="/solution/webcontentmanagement" onClick={scrollUp}>Web Content Management</NavLink>
+                                <NavLink to="/solution/digital_asset_management" onClick={scrollUp}>Digital Asset Management</NavLink>
+                                <NavLink to="/buisness_intel" onClick={scrollUp}>Buisness Intelligence</NavLink>
+                                <NavLink to="/solution/appliction_security" onClick={scrollUp}>Application Security</NavLink>
+                                <NavLink to="/solution/enterprise_it_consulting" onClick={scrollUp}>Enterprise IT Consulting</NavLink>
+                                <NavLink to="/solution/quality_is_our_core" onClick={scrollUp}>Quality is our Core</NavLink>
                             </div>
                         </li>
-                        <li className="nav-technology navlink-menu"><div><NavLink className="navlink-btn navlink-btn1" to="/">Technologies<i><BiCaretDown className="navlink-btn-icon"></BiCaretDown></i></NavLink></div>
+                        <li className="nav-technology navlink-menu"><div><p className="navlink-btn navlink-btn1">Technologies<i><BiCaretDown className="navlink-btn-icon"></BiCaretDown></i></p></div>
                             <div className="navlinks-div">
                                 <NavLink to="/tech/oracle" onClick={scrollUp}>Oracle</NavLink>
                                 <NavLink to="/tech/sap" onClick={scrollUp}>SAP</NavLink>
@@ -74,7 +74,7 @@ export default function Header() {
                                 <NavLink to="/tech/peoplesoft" onClick={scrollUp}>Peoplesoft</NavLink>
                                 <NavLink to="/tech/jdedwards" onClick={scrollUp}>JD Edwards</NavLink>
                                 <NavLink to="/tech/hyperion" onClick={scrollUp}>Hyperion</NavLink>
-                                <NavLink to="/" onClick={scrollUp}>Buisness Intelligence</NavLink>
+                                <NavLink to="/buisness_intel" onClick={scrollUp}>Buisness Intelligence</NavLink>
                                 <NavLink to="/tech/siebel" onClick={scrollUp}>Silebel</NavLink>
                             </div>
                         </li>

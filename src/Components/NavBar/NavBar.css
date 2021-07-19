@@ -2,18 +2,21 @@
     background-color: #29abe2;
     padding: 10px 0px 1px 0px;
 }
+.navbar-back>div{
+    margin-left: 6%;
+}
 .navbar-back>div:first-child>p{
     color: #fff;
     font-size: 22px;
     font-weight: bold;
     margin: 0px;
-    margin-left: 87px;
+    /* margin-left: 87px; */
 }
 .navbar-back>div>ul{
     margin: 0px;
     display: flex;
     padding-left:0px ;
-    margin-left: 87px;
+    /* margin-left: 87px; */
 }
 .navbar-back>div>ul>p{
     color: #fff;

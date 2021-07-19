@@ -1,3 +1,6 @@
+.contactus-cont>.aboutus-head{
+    margin-left: 3%;
+}
 .contactus-address{
     margin-left: 5%;
 }
@@ -18,7 +21,7 @@
 }
 .contactus-form>form>input:not(:last-child){
     border: 0.1px solid #9999999d;
-    width: 48%;
+    width: 45%;
     margin:10px 0px 10px 0px;
     padding:0.8%;
 }
@@ -27,7 +30,7 @@
 }
 .contactus-form>form>textarea{
     border: 0.1px solid #9999999d;
-    width: 100%;
+    width: 94%;
     height: 100px;
     margin: 10px 0px 10px 0px;
     padding:0.8%;
