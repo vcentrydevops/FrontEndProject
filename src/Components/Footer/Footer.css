@@ -23,6 +23,9 @@ width: 100%;
 .footer-icon>a>i{
     color: #29ABE2;
 }
+.footer-icon>a>i:hover{
+    color: #fff;
+}
 .footdiv-serv{
     flex-basis: 20%;
     color: white;
