@@ -1,0 +1,56 @@
+.soft-test-cont4>div{
+    background-color: #fff;
+}
+
+.soft-test-cont4>div>.serv-content-div1{
+    flex-basis: 100%;
+}
+
+.soft-test-cont4>div>.serv-content-div1>div{
+    margin-left: 5%;
+}
+
+.soft-test-cont4>div>.serv-content-div1>.serv-d1content>ul{
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.450);
+}
+
+.soft-test-cont2>div{
+    background-color: #ffff;
+}
+.soft-test-cont2>div:first-child{
+    padding: 40px 0px 0px 0px;
+    width: 94%;
+    margin-left: 6%;
+}
+.soft-test-cont2>div:last-child{
+    padding: 20px 0px 40px 0px;
+}
+
+.soft-test-cont2>div>.serv-content-div2{
+   flex-basis: 40%;
+   display: flex;
+   justify-content: flex-start !important;
+}
+.soft-test-cont2>div>.serv-content-div1>div{
+    padding: 0px;
+}
+.soft-test-cont2>div>div>img{
+   margin-left: 15%;
+}
+.soft-test-cont2>div>.serv-content-div1{
+    flex-basis: 60%;
+}
+.soft-test-cont2>div>.serv-content-div1>div{
+    margin-left: 0%;
+    flex-basis: 95%;
+}
+
+.soft-test-cont3>.serv-img-cont>div:last-child{
+    flex-wrap: wrap;
+   flex-basis: 90%;
+}
+.soft-test-cont3>.serv-img-cont>div:last-child>div{
+    flex-basis: 30%;
+    margin-top: 20px;
+}

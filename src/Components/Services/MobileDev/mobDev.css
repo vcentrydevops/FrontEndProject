@@ -1,0 +1,46 @@
+.mob-app-cont1>div>.serv-content-div1{
+    flex-basis: 50%;
+}
+.mob-app-cont1>div>.serv-content-div1>div{
+    margin-left: 12%;
+    width: 88%;
+}
+.mob-app-cont1>div>.serv-content-div2{
+    flex-basis: 50%;
+}
+
+.mob-app-cont2>div{
+    background-color: #ffff;
+}
+.mob-app-cont2>div>div>img{
+    height: 100%;
+    width: 80%;
+    margin-left: 15.5%;
+}
+.mob-app-cont2>div>div:last-child>div{
+    margin: 0%;
+    width: 95%;
+}
+
+.mob-app-cont3>div{
+    background-color: #ffff;
+}
+
+.mob-app-cont3>div>div>div>ul{
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.450);
+}
+
+.mob-app-cont5>div>div:last-child{
+    flex-wrap: wrap;
+    flex-basis: 86%;
+    justify-content: space-between;
+}
+.mob-app-cont5>div>div:last-child>div{
+    flex-basis: 30%;
+    margin: 10px 0px 10px 0px;
+}
+
+.mob-app-cont5>div>div:last-child>div>div{
+    padding-top:15px ;
+}

@@ -26,6 +26,12 @@ import DigitalAssetManage from './Components/Solutions/DigitalAssetManage/Digita
 import ApplicationSecurity from './Components/Solutions/ApplicationSecurity/ApplicationSecurity';
 import EnterprisesConsulting from './Components/Solutions/EnterprisesITconsult/EnterprisesConsulting';
 import QualityIsOurCore from './Components/Solutions/QualityCore/QualityIsOurCore';
+import ApplicationDev from './Components/Services/ApplicationDev/ApplicationDev';
+import MobileAppDev from './Components/Services/MobileDev/MobileAppDev';
+import SoftwareTesting from './Components/Services/SoftwareTesting/SoftwareTesting';
+import DigitalMarketing from './Components/Services/DigitalMarketing/DigitalMarketing';
+import ITInfrastructure from './Components/Services/ITInfrastructure/ITInfrastructure';
+import ITStaffing from './Components/Services/ITStaffing/ITStaffing';
 
 function App() {
   const [handelScroll, sethandelScroll] = useState()
@@ -71,6 +77,12 @@ function App() {
           <Route path="/solution/appliction_security" component={ApplicationSecurity}></Route>
           <Route path="/solution/enterprise_it_consulting" component={EnterprisesConsulting}></Route>
           <Route path="/solution/quality_is_our_core" component={QualityIsOurCore}></Route>
+          <Route path="/services/application_development" component={ApplicationDev}></Route>
+          <Route path="/services/mobile_app_development" component={MobileAppDev}></Route>
+          <Route path="/services/software_testing" component={SoftwareTesting}></Route>
+          <Route path="/services/digital_marketing" component={DigitalMarketing}></Route>
+          <Route path="/services/it_infrastructure" component={ITInfrastructure}></Route>
+          <Route path="/services/it_staffing" component={ITStaffing}></Route>
           <Route path='/' component={Home} ></Route>
         </Switch>
         <Footer></Footer>

@@ -1,0 +1,26 @@
+.digital-cont2>div{
+    background-color: #fff;
+}
+
+.digital-cont2>div>.serv-content-div1{
+    flex-basis: 100%;
+}
+
+.digital-cont2>div>.serv-content-div1>.serv-d1content>ul{
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.450);
+}
+
+.digital-cont2>div>.serv-content-div1>div{
+    margin-left: 6%;
+}
+
+.digital-cont3>.serv-img-cont>div:last-child{
+    flex-wrap: wrap;
+   flex-basis: 90%;
+}
+
+.digital-cont3>.serv-img-cont>div:last-child>div{
+    flex-basis: 30%;
+    margin-bottom:50px;
+}

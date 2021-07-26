@@ -45,12 +45,12 @@ export default function Header() {
                         <li className="nav-service navlink-menu">
                             <div><p className="navlink-btn navlink-btn1">Services<i><BiCaretDown className="navlink-btn-icon"></BiCaretDown></i></p></div>
                             <div className="navlinks-div">
-                                <NavLink to="/" onClick={scrollUp}>Application Development</NavLink>
-                                <NavLink to="/" onClick={scrollUp}>Mobile App Development</NavLink>
-                                <NavLink to="/" onClick={scrollUp}>Software Testing and QA Services</NavLink>
-                                <NavLink to="/" onClick={scrollUp}>Digital Marketing Services</NavLink>
-                                <NavLink to="/" onClick={scrollUp}>IT Infrastructure Services</NavLink>
-                                <NavLink to="/" onClick={scrollUp}>IT Staffing Services</NavLink>
+                                <NavLink to="/services/application_development" onClick={scrollUp}>Application Development</NavLink>
+                                <NavLink to="/services/mobile_app_development" onClick={scrollUp}>Mobile App Development</NavLink>
+                                <NavLink to="/services/software_testing" onClick={scrollUp}>Software Testing and QA Services</NavLink>
+                                <NavLink to="/services/digital_marketing" onClick={scrollUp}>Digital Marketing Services</NavLink>
+                                <NavLink to="/services/it_infrastructure" onClick={scrollUp}>IT Infrastructure Services</NavLink>
+                                <NavLink to="/services/it_staffing" onClick={scrollUp}>IT Staffing Services</NavLink>
                             </div>
                         </li>
                         <li className="nav-solution navlink-menu"><div><p className="navlink-btn navlink-btn1">Solutions<i><BiCaretDown className="navlink-btn-icon"></BiCaretDown></i></p></div>

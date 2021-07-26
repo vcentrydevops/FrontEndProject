@@ -1,0 +1,50 @@
+.infra-cont1>.serv-img-cont{
+    background-color: #f5f5f5;
+}
+.infra-cont1>.serv-img-cont>.serv-img-head{
+    flex-basis: 85%;
+    text-align: center;
+}
+.infra-cont1>.serv-img-cont>.serv-img-head>div{
+    width:40PX;
+    margin-left: 48%;
+}
+.infra-cont1>.serv-img-cont>div:last-child{
+    display: none;
+}
+
+.infra-cont2>div{
+    background-color: #ffff;
+}
+.infra-cont2>div:first-child{
+    padding: 40px 0px 0px 0px;
+    width: 94%;
+    margin-left: 6%;
+}
+.infra-cont2>div:last-child{
+    padding: 20px 0px 40px 0px;
+}
+
+.infra-cont2>div>.serv-content-div2{
+   flex-basis: 40%;
+   display: flex;
+   justify-content: flex-start !important;
+}
+.infra-cont2>div>.serv-content-div1>div{
+    padding: 0px;
+}
+.infra-cont2>div>div>img{
+   margin-left: 15%;
+   height: 90%;
+}
+.infra-cont2>div>.serv-content-div1{
+    flex-basis: 60%;
+}
+.infra-cont2>div>.serv-content-div1>div{
+    margin-left: 0%;
+    flex-basis: 95%;
+}
+
+.infra-cont3>div>div:last-child{
+    flex-basis: 96%;
+}
