@@ -20,7 +20,7 @@ export default function ServImgCont(props) {
                 {data.child && <p>{data.child}</p>}
                 {
                     data.btnName && <div className="serv-btn-div">
-                        <NavLink to="/contactus" onClick={scrollUp}>{data.btnName}</NavLink>
+                        <NavLink to="/" onClick={scrollUp}>{data.btnName}</NavLink>
                     </div>
                 }
             </div>

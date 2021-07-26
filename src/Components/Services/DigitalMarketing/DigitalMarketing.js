@@ -1,11 +1,12 @@
 import React from 'react'
 import NavBar from '../../NavBar/NavBar'
+import MarketingCollapse from '../Collapse/MarketingCollapse'
 import ServiceComponent from '../ServCommon/ServiceComponent'
 import ServImgCont from '../ServCommon/ServImgCont'
 import './Digital_marketing.css'
 
 
-export default function DigitalMarketing () {
+export default function DigitalMarketing() {
     const data = [
         {
             head: "Search Engine Optimization (SEO)",
@@ -74,6 +75,9 @@ export default function DigitalMarketing () {
             </div>
             <div className="digital-cont3">
                 <ServImgCont heading="Our Offerings" dataArray={data}></ServImgCont>
+            </div>
+            <div className="digital-cont4">
+                <MarketingCollapse></MarketingCollapse>
             </div>
         </div>
     )

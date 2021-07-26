@@ -17,10 +17,37 @@
 
 .digital-cont3>.serv-img-cont>div:last-child{
     flex-wrap: wrap;
-   flex-basis: 90%;
+   flex-basis: 89%;
+   justify-content: space-between;
 }
 
 .digital-cont3>.serv-img-cont>div:last-child>div{
     flex-basis: 30%;
     margin-bottom:50px;
+}
+
+.digital-cont4{
+    display: flex;
+    justify-content: center;
+    padding: 40px 0px 40px 0px;
+}
+
+.digital-cont4>div{
+    width: 89%;
+}
+
+.digital-cont4>div>div>label>.card-header{
+    background-color: #29abe2;
+    color: #ffff;
+    font-weight: bold;
+}
+.digital-cont4>div>div>label{
+    margin: 0px;
+}
+.digital-cont4>div>div>label>input{
+    display: none;
+}
+
+.digital-cont4>div>div>label>input:checked ~ .card-header{
+    background-color: #19202e;
 }
