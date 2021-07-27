@@ -77,7 +77,7 @@ export default function Home() {
                 </div>
             </div>
             <div className="aboutus-cont">
-                <div className="aboutus-head">
+                <div className="aboutus-head aboutus-home-div1">
                     <div className="about-heading">
                         <h3>About Us</h3>
                         <div></div>

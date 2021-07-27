@@ -8,7 +8,13 @@
     text-align: justify;
 }
 .portal-social-cont>.aboutus-head{
-    margin-left: 3.5%;
+    margin-left: 6%;
+}
+.portal-social-cont>.aboutus-head>.about-heading{
+    margin-left: 0%;
+}
+.portal-social-cont>.aboutus-head>.about-content{
+    margin-left: 0%;
 }
 .portal-social-cont>.aboutus-head>.about-content>p:first-child{
    color: rgb(0, 0, 0,0.450); 
@@ -25,9 +31,7 @@
 .portal-social-img>img{
     width: 95%;
 }
-.portal-social-cont2{
-    padding: 20px 0px 20px 10px;
-}
+
 .portal-social-cont2>.aboutus-head{
-    margin-left:3.5% ;
+    margin-left:3.3% ;
 }

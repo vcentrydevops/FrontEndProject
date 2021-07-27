@@ -15,15 +15,14 @@
 .serv-head>div:last-child{
     width: 40px;
     height: 2px;
-    /* position: relative;
-    left: 70px; */
     margin-left: 40%;
     background-color: #29abe2;
 }
 .serv-div{
-  width: 100%;  
+  width: 88%;  
+  margin-left: 6%;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   flex-wrap: wrap;
 }
 .serv-div>div>div:last-child{
@@ -146,6 +145,14 @@
     background-color:#007bff;
     box-shadow: 0px 0px 2px 3px #8dc2fa;
 }
+.aboutus-home-div1>.about-heading{
+    margin-left: 10.5%;
+    width: 89.5%;
+}
+.aboutus-home-div1>.about-content{
+    margin-left: 10.5%;
+    width: 89.5%;
+}
 
 .carousellap-div{
     background-color: #000;
@@ -162,9 +169,10 @@
 }
 /* Techn-div */
 .tech-cont{
-    width: 100%;
+    width: 88%;
     display: flex;
-    justify-content: space-around; 
+    margin-left: 6%;
+    justify-content: space-between; 
 }
 .techn-div{
     width: 20%;
@@ -201,11 +209,11 @@
     color: #fff;
     font-size: 30px;
     font-weight: bold;
-    margin-left: 7%;
+    margin-left: 10%;
 }
 .carrer-div1>p:last-child{
     color: #fff;
-    margin-left: 7%;
+    margin-left: 10%;
     position: relative;
     bottom: 10px;
 }
