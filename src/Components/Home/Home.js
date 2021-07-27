@@ -26,7 +26,7 @@ export default function Home() {
                         </div>
                         <div>
                             <h4>Application Development</h4>
-                            <NavLink to="/" onClick={scrollUp}><p>As competition to innovate and integrate through an agile platform (App) is growing, Amtex Info Solutions turns impeccable with 10+ year expertise.</p></NavLink>
+                            <NavLink to="/services/application_development" onClick={scrollUp}><p>As competition to innovate and integrate through an agile platform (App) is growing, Amtex Info Solutions turns impeccable with 10+ year expertise.</p></NavLink>
                         </div>
                     </div>
                     <div>
@@ -35,7 +35,7 @@ export default function Home() {
                         </div>
                         <div>
                             <h4>Mobile App Development</h4>
-                            <NavLink to="/" onClick={scrollUp}><p>Handling every level of complexity in Mobile App Development using .NET, Java, PHP, Node.js on various platforms, Amtex Info Solutions is reliable.</p></NavLink>
+                            <NavLink to="/services/mobile_app_development" onClick={scrollUp}><p>Handling every level of complexity in Mobile App Development using .NET, Java, PHP, Node.js on various platforms, Amtex Info Solutions is reliable.</p></NavLink>
                         </div>
                     </div>
                     <div>
@@ -44,7 +44,7 @@ export default function Home() {
                         </div>
                         <div>
                             <h4>Testing and QA Services</h4>
-                            <NavLink to="/" onClick={scrollUp}><p>Believing in a customer-centric approach, Amtex Info Solutions is delivering superior services with utmost priority to their Testing & QA.</p></NavLink>
+                            <NavLink to="/services/software_testing" onClick={scrollUp}><p>Believing in a customer-centric approach, Amtex Info Solutions is delivering superior services with utmost priority to their Testing & QA.</p></NavLink>
                         </div>
                     </div>
                     <div>
@@ -53,7 +53,7 @@ export default function Home() {
                         </div>
                         <div>
                             <h4>Digital Marketing</h4>
-                            <NavLink to="/" onClick={scrollUp}><p>Digital Marketing has turned up a boon for branding now. Offering it with aggressive trends in the market, Amtex Info Solutions is your next stop.</p></NavLink>
+                            <NavLink to="/services/digital_marketing" onClick={scrollUp}><p>Digital Marketing has turned up a boon for branding now. Offering it with aggressive trends in the market, Amtex Info Solutions is your next stop.</p></NavLink>
                         </div>
                     </div>
                     <div>
@@ -62,7 +62,7 @@ export default function Home() {
                         </div>
                         <div>
                             <h4>IT Infrastructure</h4>
-                            <NavLink to="/" onClick={scrollUp}><p>With multiple domain experience of Infrastructure services, Amtex Info Solutions promises operational excellence to reach customer’s resilience expectations.</p></NavLink>
+                            <NavLink to="/services/it_infrastructure" onClick={scrollUp}><p>With multiple domain experience of Infrastructure services, Amtex Info Solutions promises operational excellence to reach customer’s resilience expectations.</p></NavLink>
                         </div>
                     </div>
                     <div>
@@ -71,7 +71,7 @@ export default function Home() {
                         </div>
                         <div>
                             <h4>IT Staffing Services</h4>
-                            <NavLink to="/" onClick={scrollUp}><p>Companies are looking for the most competent & credible professionals to sustain in Industry. At Amtex Info Solutions, we bridge you with a right source.</p></NavLink>
+                            <NavLink to="/services/it_staffing" onClick={scrollUp}><p>Companies are looking for the most competent & credible professionals to sustain in Industry. At Amtex Info Solutions, we bridge you with a right source.</p></NavLink>
                         </div>
                     </div>
                 </div>
