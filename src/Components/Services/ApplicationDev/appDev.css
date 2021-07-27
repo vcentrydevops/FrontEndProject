@@ -1,0 +1,16 @@
+.app-dev-cont1>.serv-img-cont>div:last-child{
+    flex-basis: 92%;
+}
+
+.app-dev-cont3>div>.serv-content-div1{
+    flex-basis: 100% !important;
+}
+
+.app-dev-cont3>div>.serv-content-div1>div{
+    margin-left: 5.7%;
+}
+
+.app-dev-cont3>div{
+    background-color: #fff;
+}
+

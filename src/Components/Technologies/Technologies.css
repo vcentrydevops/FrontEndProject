@@ -1,0 +1,35 @@
+.technical-cont{
+    display: flex;
+    justify-content: center;
+    padding: 50px 0px 50px 0px;
+}
+
+.technical-div1{
+    flex-basis:28%;
+    display: flex;
+    justify-content: right;
+    height:100% ;
+}
+
+.technical-div1>img{
+    width: 100%;
+}
+
+.technical-div2{
+   flex-basis:62% ;
+}
+.technical-div2>.about-content>p:first-child{
+    font-weight: 400;
+    font-size: 17px;
+    color: #9a9a9a;
+    padding: 0px;
+    margin: 0px;
+}
+.technical-div2>.about-content>p{
+    font-weight: 400;
+    font-size: 17px;
+    color: #9a9a9a;
+    padding: 0px;
+    margin: 0px;
+    text-align: justify;
+}
