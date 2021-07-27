@@ -1,5 +1,8 @@
-.staff-cont3>div>div:last-child>div>div{
+.staff-cont3>div>div:last-child>div{
+    flex-basis: 30%;
+}
+.staff-cont3>div>div:last-child>div>div>p{
     width: 80%;
-    text-align: center;
-    margin-left: 10%;
+     text-align: center;
+    margin-left: 10% !important; 
 }

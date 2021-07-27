@@ -58,7 +58,7 @@ export default function ITInfrastructure() {
                 <ServImgCont heading="Our Offerings" dataArray={div4Data}>
                 </ServImgCont>
             </div>
-            <div className="carrer-cont">
+            <div className="carrer-cont app-dev-cont4">
                 <div className="carrer-div1">
                     <p>Career Opportunities</p>
                     <p>Looking for a trustworthy service to take your business forward?</p>

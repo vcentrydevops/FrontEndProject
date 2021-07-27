@@ -1,16 +1,31 @@
 .app-dev-cont1>.serv-img-cont>div:last-child{
     flex-basis: 92%;
 }
+.app-dev-cont1>.serv-img-cont>div:last-child>div{
+    flex-basis: 23%;
+}
 
 .app-dev-cont3>div>.serv-content-div1{
     flex-basis: 100% !important;
 }
 
 .app-dev-cont3>div>.serv-content-div1>div{
-    margin-left: 5.7%;
+    margin-left: 6%;
 }
 
 .app-dev-cont3>div{
     background-color: #fff;
 }
 
+.app-dev-cont4>.carrer-div1>p{
+    margin-left: 9.5%;
+}
+
+.deskapp-div1>div>div>div:last-child>ul{
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.450);
+}
+
+.deskapp-div3>div>div:last-child>div{
+    flex-basis: 22% !important;
+}

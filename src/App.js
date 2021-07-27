@@ -32,6 +32,18 @@ import SoftwareTesting from './Components/Services/SoftwareTesting/SoftwareTesti
 import DigitalMarketing from './Components/Services/DigitalMarketing/DigitalMarketing';
 import ITInfrastructure from './Components/Services/ITInfrastructure/ITInfrastructure';
 import ITStaffing from './Components/Services/ITStaffing/ITStaffing';
+import IOSAppDev from './Components/Services/MobileDev/KnowMore/IOSAppDev';
+import AndroidApp from './Components/Services/MobileDev/KnowMore/AndroidApp';
+import CrossPlatform from './Components/Services/MobileDev/KnowMore/CrossPlatform';
+import WindowsMobApp from './Components/Services/MobileDev/KnowMore/CrossPlatform';
+import FunctionalTesting from './Components/Services/SoftwareTesting/KnowMore/FunctionalTesting';
+import AutomationTesting from './Components/Services/SoftwareTesting/KnowMore/AutomationTesting';
+import SecurityTesting from './Components/Services/SoftwareTesting/KnowMore/SecurityTesting';
+import MobileAppTesting from './Components/Services/SoftwareTesting/KnowMore/MobileAppTesting';
+import PerformanceTesting from './Components/Services/SoftwareTesting/KnowMore/PerformanceTesting';
+import WebAppDev from './Components/Services/ApplicationDev/KnowMore/WebAppDev';
+import DesktopApp from './Components/Services/ApplicationDev/KnowMore/DesktopApp';
+import AppMarketing from './Components/Services/ApplicationDev/KnowMore/AppMarketing';
 
 function App() {
   const [handelScroll, sethandelScroll] = useState()
@@ -83,6 +95,17 @@ function App() {
           <Route path="/services/digital_marketing" component={DigitalMarketing}></Route>
           <Route path="/services/it_infrastructure" component={ITInfrastructure}></Route>
           <Route path="/services/it_staffing" component={ITStaffing}></Route>
+          <Route path="/ios_app_development" component={IOSAppDev}></Route>
+          <Route path="/android_application" component={AndroidApp}></Route>
+          <Route path="/cross_platform_app" component={CrossPlatform}></Route>
+          <Route path="/functional_testing" component={FunctionalTesting}></Route>
+          <Route path="/automation_testing" component={AutomationTesting}></Route>
+          <Route path="/security_testing" component={SecurityTesting}></Route>
+          <Route path="/mobile_app_testing" component={MobileAppTesting}></Route>
+          <Route path="/peformance_testing" component={PerformanceTesting}></Route>
+          <Route path="/web_app_developing" component={WebAppDev}></Route>
+          <Route path="/desktop_app_development" component={DesktopApp}></Route>
+          <Route path="/app_marketing" component={AppMarketing}></Route>
           <Route path='/' component={Home} ></Route>
         </Switch>
         <Footer></Footer>

@@ -15,25 +15,29 @@ export default function ApplicationDev() {
             head: "Web App Development",
             child: "Developing a solution for flexible, user-centric and highly responsive web application...",
             img: require('../../Images/services/webAppDev.png').default,
-            btnName: "Know More"
+            btnName: "Know More",
+            url:"web_app_developing"
         },
         {
             head: "Mobile App Development",
             child: "Mobile App Development turned up to be among the basic necessaries for any business...",
             img: require('../../Images/services/mobileAppDev.png').default,
-            btnName: "Know More"
+            btnName: "Know More",
+            url:"services/mobile_app_development"
         },
         {
             head: "Desktop App Development",
             child: "While experiencing a competition among a myriad of mobile application platforms...",
             img: require('../../Images/services/deskAppdev.png').default,
-            btnName: "Know More"
+            btnName: "Know More",
+            url:"desktop_app_development"
         },
         {
             head: "App Marketing Services",
             child: "As the market for online business is immensely growing, companies are looking...",
             img: require('../../Images/services/appMarketing.png').default,
-            btnName: "Know More"
+            btnName: "Know More",
+            url:"app_marketing"
         }
     ]
     return (
@@ -42,7 +46,7 @@ export default function ApplicationDev() {
             <div className="app-dev-cont1">
                 <ServImgCont heading="Our Offerings" dataArray={data}></ServImgCont>
             </div>
-            <div className="carrer-cont">
+            <div className="carrer-cont app-dev-cont4">
                 <div className="carrer-div1">
                     <p>Career Opportunities</p>
                     <p>Looking for a trustworthy service to take your business forward?</p>

@@ -33,8 +33,14 @@
 
 .mob-app-cont5>div>div:last-child{
     flex-wrap: wrap;
-    flex-basis: 86%;
+    flex-basis: 87%;
     justify-content: space-between;
+    padding-top: 0px;
+}
+.mob-app-cont5>div>div>p{
+    width: 97%;
+    margin-left: 1.5%;
+    margin-top:10px ;
 }
 .mob-app-cont5>div>div:last-child>div{
     flex-basis: 30%;
@@ -49,9 +55,17 @@
     flex-basis: 30%;
 }
 .mob-app-cont6>div>div:last-child{
-    flex-basis: 90%;
+    flex-basis: 94%;
 }
 
 .mob-app-cont4>div>div:last-child{
-    flex-basis: 93%;
+    flex-basis: 94%;
+}
+
+.mob-app-cont4>div>div:last-child>div{
+    flex-basis: 21%;
+}
+
+.know-cont1>div{
+    background-color: #f5f5f5;
 }

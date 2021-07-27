@@ -4,6 +4,7 @@ import MarketingCollapse from '../Collapse/MarketingCollapse'
 import ServiceComponent from '../ServCommon/ServiceComponent'
 import ServImgCont from '../ServCommon/ServImgCont'
 import './Digital_marketing.css'
+import { Accordion, Card } from 'react-bootstrap'
 
 
 export default function DigitalMarketing() {
@@ -77,7 +78,19 @@ export default function DigitalMarketing() {
                 <ServImgCont heading="Our Offerings" dataArray={data}></ServImgCont>
             </div>
             <div className="digital-cont4">
-                <MarketingCollapse></MarketingCollapse>
+                <MarketingCollapse>
+                    <Card>
+                        <label>
+                            <input type="radio" name="collapse" defaultChecked="true"></input>
+                            <Accordion.Toggle as={Card.Header} eventKey="0">
+                                Experienced Experts
+                            </Accordion.Toggle>
+                        </label>
+                        <Accordion.Collapse eventKey="0">
+                            <Card.Body>We are a team of 200+ highly trained and qualified professionals and are well-versed with all the major digital marketing trends. Our team includes SEO Consultants, Business Analysts, Web Designers, Web Developers, App Developers and Digital Marketers who know precisely what best suits you. Altogether, our experts plan SEO strategies keeping in mind about your exact industry and targeted clients, and deliver solutions that results in high ROI.</Card.Body>
+                        </Accordion.Collapse>
+                    </Card>
+                </MarketingCollapse>
             </div>
         </div>
     )

@@ -40,6 +40,7 @@
     background-color: #29abe2;
     color: #ffff;
     font-weight: bold;
+    text-align: start;
 }
 .digital-cont4>div>div>label{
     margin: 0px;
@@ -51,3 +52,4 @@
 .digital-cont4>div>div>label>input:checked ~ .card-header{
     background-color: #19202e;
 }
+
