@@ -60,26 +60,30 @@
     height: 75px;
     /* justify-content: center; */
   }
+
   .navlink-btn{
       text-decoration: none !important;
       font-weight: bold;
       color: #000;
       position: relative;
       top: 12.835px;
-      font-size: 16px;
-      
+      font-size: 16px;  
   }
+
   .navlink-btn1{
     position: relative;
     /* top:11px; */
   }
+
   .navlink-btn:hover{
       color:#007bffc5 ;
   }
+
   .navlink-btn>i{
       align-items: center;
       margin-left: 4px;
   }
+  
   .navlink-btn-icon{
       position: relative;
       /* top:3px; */
@@ -118,6 +122,9 @@
   }
   .navlink-menu:hover>.navlinks-div{
     visibility: visible;
+  }
+  #nav-visible{
+    visibility: hidden !important;
   }
 
   .navlinks-div>a:hover{

@@ -7,6 +7,7 @@ import { NavLink } from 'react-router-dom'
 export default function Header() {
     const [visible, setvisible] = useState(false)
     const [handelScroll, sethandelScroll] = useState()
+    const [navbarVisible, setnavbarVisible] = useState(false)
     const visibility = () => {
         setvisible(!visible)
     }
@@ -24,7 +25,12 @@ export default function Header() {
 
     const scrollUp = () => {
         window.scrollTo({ top: 0 })
+        setnavbarVisible(true)
+        setTimeout(() => {
+            setnavbarVisible(false)
+        }, 100);
     }
+
     return (
         <header>
             <nav className="nav-div" id={handelScroll ? "nav-div1" : "null"}>
@@ -44,7 +50,7 @@ export default function Header() {
                         <li className="nav-about"><div><NavLink className="navlink-btn" to="/about" onClick={scrollUp}>About us</NavLink></div></li>
                         <li className="nav-service navlink-menu">
                             <div><p className="navlink-btn navlink-btn1">Services<i><BiCaretDown className="navlink-btn-icon"></BiCaretDown></i></p></div>
-                            <div className="navlinks-div">
+                            <div className="navlinks-div" id={navbarVisible ? "nav-visible":""}>
                                 <NavLink to="/services/application_development" onClick={scrollUp}>Application Development</NavLink>
                                 <NavLink to="/services/mobile_app_development" onClick={scrollUp}>Mobile App Development</NavLink>
                                 <NavLink to="/services/software_testing" onClick={scrollUp}>Software Testing and QA Services</NavLink>
@@ -53,8 +59,9 @@ export default function Header() {
                                 <NavLink to="/services/it_staffing" onClick={scrollUp}>IT Staffing Services</NavLink>
                             </div>
                         </li>
-                        <li className="nav-solution navlink-menu"><div><p className="navlink-btn navlink-btn1">Solutions<i><BiCaretDown className="navlink-btn-icon"></BiCaretDown></i></p></div>
-                            <div className="navlinks-div">
+                        <li className="nav-solution navlink-menu">
+                            <div><p className="navlink-btn navlink-btn1">Solutions<i><BiCaretDown className="navlink-btn-icon"></BiCaretDown></i></p></div>
+                            <div className="navlinks-div" id={navbarVisible ? "nav-visible":""}>
                                 <NavLink to="/solution/portals_social_collaboration" onClick={scrollUp}>Portal & Social Collaboration</NavLink>
                                 <NavLink to="/solution/webcontentmanagement" onClick={scrollUp}>Web Content Management</NavLink>
                                 <NavLink to="/solution/digital_asset_management" onClick={scrollUp}>Digital Asset Management</NavLink>
@@ -65,7 +72,7 @@ export default function Header() {
                             </div>
                         </li>
                         <li className="nav-technology navlink-menu"><div><p className="navlink-btn navlink-btn1">Technologies<i><BiCaretDown className="navlink-btn-icon"></BiCaretDown></i></p></div>
-                            <div className="navlinks-div">
+                            <div className="navlinks-div" id={navbarVisible ? "nav-visible":""}>
                                 <NavLink to="/tech/oracle" onClick={scrollUp}>Oracle</NavLink>
                                 <NavLink to="/tech/sap" onClick={scrollUp}>SAP</NavLink>
                                 <NavLink to="/tech/infor" onClick={scrollUp}>Infor</NavLink>
