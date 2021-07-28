@@ -1,3 +1,6 @@
+.contactus-cont{
+    background-color: #fff;
+}
 .contactus-cont>.aboutus-head{
     margin-left: 3%;
 }
@@ -23,17 +26,23 @@
     border: 0.1px solid #9999999d;
     width: 45%;
     margin:10px 0px 10px 0px;
-    padding:0.8%;
+    padding:1%;
 }
 .contactus-form>form>input:nth-child(odd){
     margin-right: 4%;
 }
+.contactus-form>form>input:focus{
+    outline: none;
+}
 .contactus-form>form>textarea{
     border: 0.1px solid #9999999d;
     width: 94%;
-    height: 100px;
+    height: 130px;
     margin: 10px 0px 10px 0px;
     padding:0.8%;
+}
+.contactus-form>form>textarea:focus{
+    outline: none;
 }
 .contactus-form>form>input::-webkit-outer-spin-button,
 .contactus-form>form>input::-webkit-inner-spin-button {
