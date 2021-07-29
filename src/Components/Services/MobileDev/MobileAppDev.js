@@ -23,7 +23,7 @@ export default function MobileAppDev() {
     const div4Data=[
         {
             head:"IOS App Dev",
-            child:"In a fast pacing Application Development market, Amtex Info Solutions is renowned for...",
+            child:"In a fast pacing Application Development market, Grovita Technology is renowned for...",
             img:require('../../Images/services/webAppDev.png').default,
             btnName:"Know More",
             url:"ios_app_development"
@@ -78,18 +78,18 @@ export default function MobileAppDev() {
             </div>
             <div className="mob-app-cont2">
                 <ServiceComponent img1={require('../../Images/expertise.png').default} heading="Our Expertise">
-                    <p>Amtex Info Solutions has delivered solutions that enabled our customers in reaching out to their business targets.</p>
+                    <p>Grovita Technology has delivered solutions that enabled our customers in reaching out to their business targets.</p>
                     <p>With a sort out experience in App Development, we are the next big stop for your requirement in App Design, Development, Service-support and marketing.</p>
                     <p>We use robust technologies and the most creative team to provide mobile application services for all platforms (Android, IOS, and Web).</p>
                 </ServiceComponent>
             </div>
             <div className="mob-app-cont3">
-                <ServiceComponent img2={require('../../Images/aboutpage2.png').default} heading="Why Amtex Info Solutions">
+                <ServiceComponent img2={require('../../Images/aboutpage2.png').default} heading="Why Grovita Technology">
                     <ul>
                         <li><p>Our creative minds at spirit Technologies have been into the Mobile App Development market from a very long time.</p></li>
                         <li><p>We have been delivering iOS Mobile App Development, Android Mobile App Development, Windows Mobile App Development, Cross-Platform Mobile App Development, and Custom Mobile App Development without registering any constant update & upgrade issues so far.</p></li>
                         <li><p>Our captivating app development results for globally successful clients since 10+ years show our endearing efforts in it.</p></li>
-                        <li><p>At Amtex Info Solutions, we deliver best in standard development services using iOS, Android and Cross-platform's latest frameworks.</p></li>
+                        <li><p>At Grovita Technology, we deliver best in standard development services using iOS, Android and Cross-platform's latest frameworks.</p></li>
                         <li><p>We not only render a fully reliable mobile application for your requirement but also optimize it in a way that helps you online, in reaching your business targets.</p></li>
                     </ul>
                 </ServiceComponent>
@@ -104,7 +104,7 @@ export default function MobileAppDev() {
             </div>
             <div className="mob-app-cont5">
                 <ServImgCont heading="Industries we Serve" dataArray={div5Data}>
-                    <p>Amtex Info Solutions's desktop application development service is extending its implication into various industries with an impeccable success record. Aiming to stay ahead in the aggressively growing online market, our developers are breaking the year-old list of confined industries for DAD (Desktop Application Development). As of now, we are into.</p>
+                    <p>Grovita Technology desktop application development service is extending its implication into various industries with an impeccable success record. Aiming to stay ahead in the aggressively growing online market, our developers are breaking the year-old list of confined industries for DAD (Desktop Application Development). As of now, we are into.</p>
                 </ServImgCont>
             </div>
         </div>

@@ -13,7 +13,7 @@ export default function BuisnessIntel() {
                         <div></div>
                     </div>
                     <div className="about-content">
-                        <p>Amtex Info Solutions has enabled more than 100 of its clients globally to cost efficiently migrate to new technologies while broadening the life cycle of their functionality rich existing legacy systems.</p>
+                        <p>Grovita Technology has enabled more than 100 of its clients globally to cost efficiently migrate to new technologies while broadening the life cycle of their functionality rich existing legacy systems.</p>
                         <p>Projects include re-engineering software to migrate applications legacy systems to client/server architectures, to extend existing applications to the Internet, to migrate from existing applications to UNIX or Windows NT, or to update from a non-relational to a relational database technology.</p>
                     </div>
                 </div>
@@ -21,7 +21,7 @@ export default function BuisnessIntel() {
             <div className="aboutus-cont buisness-cont buisness-cont2">
                 <div className="aboutus-head">
                     <div className="about-heading">
-                        <h3>Amtex Info Solutions migration methodology includes:</h3>
+                        <h3>Grovita Technology migration methodology includes:</h3>
                         <div></div>
                     </div>
                     <div className="about-content">

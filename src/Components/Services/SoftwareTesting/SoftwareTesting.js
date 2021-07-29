@@ -63,8 +63,8 @@ export default function SoftwareTesting() {
                 <ServiceComponent img1={require('../../Images/expertise.png').default}>
                     <p>Delivering a budget-friendly, high-quality product within the precise time shall be the ultimate goal of any software development company.</p>
                     <p>Despite levying a strenuous effort and expertise in development, a product may face or raise functionality and operating issues and that's where a reliable Software Testing and QA service is needed.</p>
-                    <p>With an extensive experience in providing trust-worthy services to our globally successful clients, Amtex Info Solutions is renowned for our efficiency.</p>
-                    <p>Verifying and validating extremely complex software products with a glitch free output, Amtex Info Solutions is preferred amongst the most trusted companies from years.</p>
+                    <p>With an extensive experience in providing trust-worthy services to our globally successful clients, Grovita Technology is renowned for our efficiency.</p>
+                    <p>Verifying and validating extremely complex software products with a glitch free output, Grovita Technology is preferred amongst the most trusted companies from years.</p>
                     <p>Here's what we offer in our software testing and QA services.</p>
                 </ServiceComponent>
             </div>
@@ -83,8 +83,8 @@ export default function SoftwareTesting() {
             <div className="soft-test-cont4">
                 <ServiceComponent heading="What We Do">
                     <ul>
-                        <li><p>Amtex Info Solutions has been offering Testing & QA Services from 10+ years, receiving accolades from the globally successful clients.</p></li>
-                        <li><p>Evolving its expertise into various methods of Testing and QA Service purposes, Amtex Info Solutions is emerging as the best in standards.</p></li>
+                        <li><p>Grovita Technology has been offering Testing & QA Services from 10+ years, receiving accolades from the globally successful clients.</p></li>
+                        <li><p>Evolving its expertise into various methods of Testing and QA Service purposes, Grovita Technology is emerging as the best in standards.</p></li>
                         <li><p>Testing your product with industry best technologies, we assure you a sustained business growth.</p></li>
                     </ul>
                 </ServiceComponent>

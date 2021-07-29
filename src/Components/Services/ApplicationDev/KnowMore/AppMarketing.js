@@ -34,7 +34,7 @@ export default function AppMarketing() {
                 </ServiceComponent>
             </div>
             <div className="app-dev-cont3 deskapp-div1">
-                <ServiceComponent heading="Why Amtex Info Solutions">
+                <ServiceComponent heading="Why Grovita Technology">
                     <p>So, following the functionality of Search Engine Optimization (SEO) for websites, App Store Optimization (ASO) drives the rank of app in App stores which results in increased download rate.</p>
                     <p>Analyzing the credibility of your business to be visible on various platforms and get accessed to implement strategies accordingly, we develop a right ASO package for optimizing your mobile application.</p>
                     <p>And it includes the strategies that aim branding and conversion rate besides improving app ranking among the top-rate app stores be it, Google Play Store, Amazon AppStore, and iTunes etc.</p>
@@ -46,12 +46,12 @@ export default function AppMarketing() {
                         <li><p>ASO packages which are accountable besides generating desired results effectively.</p></li>
                         <li><p>Performance tracking system that continuously monitors the progress and drags in the campaign thereby alter the strategies for forthcoming results.</p></li>
                     </ul>
-                    <p>Thus, aiming for a faster growth in your business, we Amtex Info Solutionsare renowned for being the best to provide On-Page and Off-Page App store optimization processes based on client’s business requirements.</p>
+                    <p>Thus, aiming for a faster growth in your business, we Grovita Technology are renowned for being the best to provide On-Page and Off-Page App store optimization processes based on client’s business requirements.</p>
                 </ServiceComponent>
             </div>
             <div className="app-dev-cont3 deskapp-div1">
-                <ServiceComponent heading="Amtex Info Solutions ASO Approach">
-                    <p>At Amtex Info Solutions, we follow the marketing approaches that ensure the best customer engagement and maximum ROI’s to our clients. Our ASO approach extends to..,</p>
+                <ServiceComponent heading="Grovita Technology ASO Approach">
+                    <p>At Grovita Technology, we follow the marketing approaches that ensure the best customer engagement and maximum ROI’s to our clients. Our ASO approach extends to..,</p>
                     <ul style={{ paddingInlineStart: "55px" }}>
                         <li><p>App Title</p></li>
                         <li><p>Gathering keywords that are relevant to App</p></li>
@@ -69,7 +69,7 @@ export default function AppMarketing() {
             <div className="mob-app-cont5">
                 <ServImgCont heading="Our Offerings" dataArray={div1Data}>
                     <p style={{ textAlign: "start" }}>While our globally successful clients are busy in planning and managing other business tasks, we provide an exceptional assistance to them in handling their App Store Optimization services productively.</p>
-                    <p style={{ textAlign: "start" }}>Thus, paying attention to the client’s requirements and aiming for his ultimate satisfaction with the results, Amtex Info Solutions has been offering ASO on</p>
+                    <p style={{ textAlign: "start" }}>Thus, paying attention to the client’s requirements and aiming for his ultimate satisfaction with the results, Grovita Technology has been offering ASO on</p>
                 </ServImgCont>
             </div>
             <div className="mob-app-cont5">

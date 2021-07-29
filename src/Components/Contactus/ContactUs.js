@@ -33,13 +33,11 @@ export default function ContactUs() {
                         <div className="foot-adres">
                             <i><FaMapMarkerAlt></FaMapMarkerAlt></i>
                             <div className="adres-div">
-                                <p>Amtex Info Solution</p>
-                                <p>RMZ Milenia Buisness Park.</p>
-                                <p>Phase 2, Campus 4B,</p>
-                                <p>No 143,6th Floor, Unit 602A,</p>
-                                <p>Dr. M.G.R Road,</p>
-                                <p>Kandanchavadi,</p>
-                                <p>Perungudi,Chennai-600096.</p>
+                                <p>Grovita Technology</p>
+                                <p>Old No.74, New No. 124, Sri Balaji Tower,</p>
+                                <p>Mount Road,</p>
+                                <p>Guindy,</p>
+                                <p>Chennai – 600032.</p>
                             </div>
                         </div>
                         <div className="foot-adres foot-phone">
@@ -51,7 +49,7 @@ export default function ContactUs() {
                         <div className="foot-adres foot-phone">
                             <i><FaEnvelope></FaEnvelope></i>
                             <div>
-                                <p>info@amtexinfosolutions.com</p>
+                                <p>info@grovitatechnology.com</p>
                             </div>
                         </div>
                     </div>

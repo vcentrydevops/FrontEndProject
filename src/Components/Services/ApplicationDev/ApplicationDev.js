@@ -57,8 +57,8 @@ export default function ApplicationDev() {
             </div>
             <div className="app-dev-cont3">
                 <ServiceComponent heading="What We Do">
-                    <p>Amtex Info Solutions has been offering Application Development Services from 10+ years, receiving accolades from globally successful clients.</p>
-                    <p>Spreading its development wings into various application development platforms for different app business purposes, Amtex Info Solutions has evolved its expertise progressively.</p>
+                    <p>Grovita Technology has been offering Application Development Services from 10+ years, receiving accolades from globally successful clients.</p>
+                    <p>Spreading its development wings into various application development platforms for different app business purposes, Grovita Technology has evolved its expertise progressively.</p>
                     <p>Offering native and cross-platform desktop application services, we analyze, design, develop, deploy and market your application with the industry best practices that accelerate your business.</p>
                     <p>Developing a simple, effective, and an advanced Desktop Application that works offline, our deep knowledge and customer-centric approach in developing it has been satisfying the client's requirements so far.</p>
                 </ServiceComponent>

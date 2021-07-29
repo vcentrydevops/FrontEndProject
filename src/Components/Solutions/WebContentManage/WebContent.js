@@ -13,8 +13,8 @@ export default function WebContent() {
                         <div></div>
                     </div>
                     <div className="about-content aboutpage-acontent">
-                        <p>Amtex Info Solutions Web Content Management solutions provide a rich environment for creating, managing, and publishing Web content, and an infrastructure for supporting multiple sites.</p>
-                        <p>Because users of Web Content Management systems are generally non-technical business users or subject matter experts who are unfamiliar with HTML syntax, Amtex Info Solutions include easy-to-use inline editors for text, HTML, and XML content, and connectors for editing documents using a variety of familiar desktop tools.</p>
+                        <p>Grovita Technology Web Content Management solutions provide a rich environment for creating, managing, and publishing Web content, and an infrastructure for supporting multiple sites.</p>
+                        <p>Because users of Web Content Management systems are generally non-technical business users or subject matter experts who are unfamiliar with HTML syntax, Grovita Technology include easy-to-use inline editors for text, HTML, and XML content, and connectors for editing documents using a variety of familiar desktop tools.</p>
                     </div>
                 </div>
                 <div className="webcontent-img">
@@ -24,7 +24,7 @@ export default function WebContent() {
             <div className="aboutus-cont aboutpage-acont2 webcontent-cont2">
                 <div className="about-content aboutpage-acontent">
                     <p>For formatting simplicity, we include a transformation engine that converts content from one format to another. For example, incoming images of various types and sizes can be converted to a standard format and size. Drag-and-drop layout lets users customize the look and feel of a Web site without waiting for assistance from developers, and granular control over security enables content authors to secure web pages and the files, images, and videos embedded in them.</p>
-                    <p>Amtex Info Solutions Web Content Management solutions provide content management and search capabilities for over 35 languages, including the right-to-left languages such as Arabic and Hebrew. A robust full text search engine supports metadata and keyword searches, and returns results based on the user's access permissions.</p>
+                    <p>Grovita Technology Web Content Management solutions provide content management and search capabilities for over 35 languages, including the right-to-left languages such as Arabic and Hebrew. A robust full text search engine supports metadata and keyword searches, and returns results based on the user's access permissions.</p>
                 </div>
             </div>
             <div className="aboutus-cont buisness-cont2 webcontent-cont3">

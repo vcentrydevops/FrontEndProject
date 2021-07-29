@@ -14,7 +14,7 @@ export default function DigitalAssetManage() {
                     </div>
                     <div className="about-content">
                         <p>A Digital Asset Management Software (DAM) is a single access point for all your rich digital media and its underlying metadata information throughout the extended enterprise.</p>
-                        <p>Amtex Info Solutions Open Source digital asset management system centralizes storage and provides easy, efficient, enterprise access to digital assets, and allows them to be quickly repurposed, which streamlines processes and saves money.</p>
+                        <p>Grovita Technology Open Source digital asset management system centralizes storage and provides easy, efficient, enterprise access to digital assets, and allows them to be quickly repurposed, which streamlines processes and saves money.</p>
                     </div>
                 </div>
             </div>    

@@ -60,9 +60,9 @@ export default function DesktopApp() {
                 </ServiceComponent>
             </div>
             <div className="app-dev-cont3 deskapp-div1">
-                <ServiceComponent heading="Why Amtex Info Solutions">
+                <ServiceComponent heading="Why Grovita Technology">
                     <ul style={{fontWeight:500}}>
-                        <li><p>Sustaining the heavy competition in the ever-evolving technology world, we at Amtex Info Solutions retain our position at the top developing flexible engagement models for our successful clients.</p></li>
+                        <li><p>Sustaining the heavy competition in the ever-evolving technology world, we at Grovita Technology retain our position at the top developing flexible engagement models for our successful clients.</p></li>
                         <li><p>Delivering a user-friendly, easy-to-operate, and strategically-effective application, we enable functionality that is feasible to upgrades and is secure over data vulnerabilities.</p></li>
                         <li><p>Our developers continuously evolve their proficiency in advanced technologies and show expertise in the latest platforms and languages.</p></li>
                         <li><p>Offering unmatched integrating standards, we vow to make your money worth with the quality in the final output.</p></li>
@@ -78,12 +78,12 @@ export default function DesktopApp() {
             </div>
             <div className="mob-app-cont5 deskapp-div3">
                 <ServImgCont heading="Industries we Serve" dataArray={div2Data}>
-                    <p>We intuitively focus on High-performance, User convenience, and Information security while working on the app and thus, our desktop apps are agile, efficient, reliable, and secure in functionality. Amtex Info Solutions's desktop apps are flexible enough to integrate with other enterprise software and user activities, as it follows the below hierarchy with utmost prowess.</p>
+                    <p>We intuitively focus on High-performance, User convenience, and Information security while working on the app and thus, our desktop apps are agile, efficient, reliable, and secure in functionality. Grovita Technology desktop apps are flexible enough to integrate with other enterprise software and user activities, as it follows the below hierarchy with utmost prowess.</p>
                 </ServImgCont>
             </div>
             <div className="mob-app-cont5">
                 <ServImgCont heading="Industries we Serve" dataArray={div3Data}>
-                    <p>Amtex Info Solutions's desktop application development service is extending its implication into various industries with an impeccable success record. Aiming to stay ahead in the aggressively growing online market, our developers are breaking the year-old list of confined industries for DAD (Desktop Application Development). As of now, we are into.</p>
+                    <p>Grovita Technology desktop application development service is extending its implication into various industries with an impeccable success record. Aiming to stay ahead in the aggressively growing online market, our developers are breaking the year-old list of confined industries for DAD (Desktop Application Development). As of now, we are into.</p>
                 </ServImgCont>
             </div>
         </div>

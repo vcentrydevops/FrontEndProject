@@ -12,25 +12,25 @@ export default function ITInfrastructure() {
     const div4Data=[
         {
             head:"Server Management",
-            child:"Amtex Info Solutions provides services that precisely relate to IT Service Management",
+            child:"Grovita Technology provides services that precisely relate to IT Service Management",
             img:require('../../Images/services/ITinfra/functional_testing.png').default,
             btnName:"Know More"
         },
         {
             head:"Network Management",
-            child:"Amtex Info Solutions provides services that precisely relate to IT Service Management",
+            child:"Grovita Technology provides services that precisely relate to IT Service Management",
             img:require('../../Images/services/ITinfra/functional_testing.png').default,
             btnName:"Know More"
         },
         {
             head:"Application Management",
-            child:"Amtex Info Solutions provides services that precisely relate to IT Service Management",
+            child:"Grovita Technology provides services that precisely relate to IT Service Management",
             img:require('../../Images/services/ITinfra/functional_testing.png').default,
             btnName:"Know More"
         },
         {
             head:"Database Management",
-            child:"Amtex Info Solutions provides services that precisely relate to IT Service Management",
+            child:"Grovita Technology provides services that precisely relate to IT Service Management",
             img:require('../../Images/services/ITinfra/functional_testing.png').default,
             btnName:"Know More"
         }
@@ -49,7 +49,7 @@ export default function ITInfrastructure() {
                     <div></div>
                 </div>
                 <ServiceComponent img1={require('../../Images/services/ITinfra/our_prowess.png').default}>
-                    <p>Amtex Info Solutions provides services that precisely relate to IT Service Management, Info Security, Unified Communication and Collab Initiatives with the most proficient team on the board.</p>
+                    <p>Grovita Technology provides services that precisely relate to IT Service Management, Info Security, Unified Communication and Collab Initiatives with the most proficient team on the board.</p>
                     <p>We analyze, strategize and optimize your IT Infrastructure management with our techniques, aiming for a continuous progress in productivity.</p>
                     <p>We have a superior forte in offering IT infrastructure Services for 10+ years and are now capable of deploying extensive services.</p>
                 </ServiceComponent>
@@ -70,9 +70,9 @@ export default function ITInfrastructure() {
             <div className="soft-test-cont4">
                 <ServiceComponent heading="What We Do">
                     <ul>
-                        <li><p>Pioneering in the IT Infrastructure industry, Amtex Info Solutions has a detailed portfolio of providing 10+ years service to customers.</p></li>
-                        <li><p>Offering a high flexibility in operations, Amtex Info Solutions IT Infrastructure Services regulate the costs of outsourcing.</p></li>
-                        <li><p>Settling the traditional methods of IT Infrastructure to scratch, Amtex Info Solutions owns techniques that complete the task in short operating timelines.</p></li>
+                        <li><p>Pioneering in the IT Infrastructure industry, Grovita Technology has a detailed portfolio of providing 10+ years service to customers.</p></li>
+                        <li><p>Offering a high flexibility in operations, Grovita Technology IT Infrastructure Services regulate the costs of outsourcing.</p></li>
+                        <li><p>Settling the traditional methods of IT Infrastructure to scratch, Grovita Technology owns techniques that complete the task in short operating timelines.</p></li>
                     </ul>
                 </ServiceComponent>
             </div>

@@ -14,7 +14,7 @@ const MarketingCollapse = (props) => {
                     </Accordion.Toggle>
                 </label>
                 <Accordion.Collapse eventKey="2">
-                    <Card.Body>Amtex Info Solutions offers transparent and competitive pricing for results-oriented and profit-driven Digital Marketing services. Through our flexible engagement model and customer-focused approach, we intend at delivering utmost value to our customers for their investments and make sure that our clients get a high return on investment when they partner with us over other Digital marketing companies.</Card.Body>
+                    <Card.Body>Grovita Technology offers transparent and competitive pricing for results-oriented and profit-driven Digital Marketing services. Through our flexible engagement model and customer-focused approach, we intend at delivering utmost value to our customers for their investments and make sure that our clients get a high return on investment when they partner with us over other Digital marketing companies.</Card.Body>
                 </Accordion.Collapse>
             </Card>
             <Card>

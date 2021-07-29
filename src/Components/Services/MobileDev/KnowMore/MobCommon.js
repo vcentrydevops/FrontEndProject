@@ -7,7 +7,7 @@ export default function MobCommon() {
     const div4Data = [
         {
             head: "IOS App Dev",
-            child: "In a fast pacing Application Development market, Amtex Info Solutions is renowned for...",
+            child: "In a fast pacing Application Development market, Grovita Technology is renowned for...",
             img: require('../../../Images/services/webAppDev.png').default,
             btnName: "Know More",
             url: "ios_app_development"

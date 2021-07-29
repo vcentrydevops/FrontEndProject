@@ -52,8 +52,8 @@ export default function WebAppDev() {
             <div className="app-dev-cont3">
                 <ServiceComponent heading="TECHNOLOGIES WE USE">
                     <p>Our captivating record in providing Web Application Development services to our globally successful clients since 10+ years, depict our deft in it.</p>
-                    <p>At Amtex Info Solutions, we deliver engaging and eye-catching design and development using Drupal, Joomla, Magento, WordPress, and CMS frameworks.</p>
-                    <p>Our creative minds at Amtex Info Solutions are highly proficient in Express JS, React JS, Angular JS, Polymer, Ionic, and other advanced frameworks.</p>
+                    <p>At Grovita Technology, we deliver engaging and eye-catching design and development using Drupal, Joomla, Magento, WordPress, and CMS frameworks.</p>
+                    <p>Our creative minds at Grovita Technology are highly proficient in Express JS, React JS, Angular JS, Polymer, Ionic, and other advanced frameworks.</p>
                     <p>We not only render an expert outlook for your website but also develop it in a way that helps you reach your business targets.</p>
                     <p>We are highly esteemed for following developing methods based on client-perspective rather than the monotonous year-old industry norms in development.</p>
                 </ServiceComponent>
@@ -64,7 +64,7 @@ export default function WebAppDev() {
                 </ServImgCont>
             </div>
             <div className="mob-app-cont5">
-                <ServImgCont heading="Amtex Info Solutions Offerings" dataArray={div2Data}>
+                <ServImgCont heading="Grovita Technology Offerings" dataArray={div2Data}>
                     <p>We are the most recommended for our offerings, as we have the expertise and experience that usually makes a service agile and solutions reliable for any business.</p>
                 </ServImgCont>
             </div>

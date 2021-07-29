@@ -13,14 +13,14 @@ export default function QualityIsOurCore() {
                         <div></div>
                     </div>
                     <div className="about-content aboutpage-acontent">
-                       <p>Amtex Info Solutions has put together an impressive portfolio of QA and testing service offerings which are implemented to make sure that ISVs (Software Vendors) can deliver robust and dependable products to the market rapidly. Our services successfully address the usability, functionality, and performance testing aspects of the solution. We can help you with the entire product development life cycle ranging from the requirements phase, designing the test approach, tools selection, code reviews, building the test suites, test execution</p>
+                       <p>Grovita Technology has put together an impressive portfolio of QA and testing service offerings which are implemented to make sure that ISVs (Software Vendors) can deliver robust and dependable products to the market rapidly. Our services successfully address the usability, functionality, and performance testing aspects of the solution. We can help you with the entire product development life cycle ranging from the requirements phase, designing the test approach, tools selection, code reviews, building the test suites, test execution</p>
                     </div>
                 </div>
             </div>
             <div className="aboutus-cont appliction-sec-cont">
                 <div className="aboutus-head">
                     <div className="about-heading">
-                        <h3>Amtex Info Solutions QA Methodologies</h3>
+                        <h3>Grovita Technology QA Methodologies</h3>
                         <div></div>
                     </div>
                     <div className="about-content aboutpage-acontent">

@@ -13,7 +13,7 @@ export default function ApplicationSecurity() {
                         <div></div>
                     </div>
                     <div className="about-content aboutpage-acontent">
-                       <p>Amtex Info Solutions Application Security Solution establishes a continuous process that ensures security verification and remediation tasks are not only deployed across every stage of the SDLC, but also ingrained into the team's workflow.</p>
+                       <p>Grovita Technology Application Security Solution establishes a continuous process that ensures security verification and remediation tasks are not only deployed across every stage of the SDLC, but also ingrained into the team's workflow.</p>
                     </div>
                 </div>
             </div>
@@ -63,7 +63,7 @@ export default function ApplicationSecurity() {
                         <div></div>
                     </div>
                     <div className="about-content aboutpage-acontent">
-                       <p>Amtex Info Solutions's policy-based approach establishes the organization's expectations for quality, leverages an automated infrastructure to ensure consistent, unobtrusive policy application, and automatically monitors policy compliance for visibility and auditability.</p>
+                       <p>Grovita Technology policy-based approach establishes the organization's expectations for quality, leverages an automated infrastructure to ensure consistent, unobtrusive policy application, and automatically monitors policy compliance for visibility and auditability.</p>
                     </div>
                 </div>
             </div>
@@ -85,7 +85,7 @@ export default function ApplicationSecurity() {
                         <div></div>
                     </div>
                     <div className="about-content aboutpage-acontent">
-                       <p>Amtex Info Solutions establishes a continuous security process that ensures compliance tasks begin early and are deployed across every stage of the SDLC, as recommended by the PCI DSS. We've learned that even the best tool eventually becomes shelf ware if it is not integrated into a sustainable process. To ensure that the security process remains on track and does not disrupt project progress, Amtex Info Solutions ingrains compliance tasks into the team's existing workflow and automates them so team members can focus on tasks that truly require human intelligence.</p>
+                       <p>Grovita Technology establishes a continuous security process that ensures compliance tasks begin early and are deployed across every stage of the SDLC, as recommended by the PCI DSS. We've learned that even the best tool eventually becomes shelf ware if it is not integrated into a sustainable process. To ensure that the security process remains on track and does not disrupt project progress, Grovita Technology ingrains compliance tasks into the team's existing workflow and automates them so team members can focus on tasks that truly require human intelligence.</p>
                     </div>
                 </div>
             </div>

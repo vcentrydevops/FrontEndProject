@@ -43,7 +43,7 @@ export default function ITStaffing() {
                 </div>
                 <ServiceComponent img1={require('../../Images/expertise.png').default}>
                     <p>Between the booming businesses, allying with an IT staffing agency that recruits trust-worthy candidates for you is highly productive.</p>
-                    <p>Amtex Info Solutions IT Staffing Services provides you with the most productive and influential talents from our network that fit absolutely for your business objectives.</p>
+                    <p>Grovita Technology IT Staffing Services provides you with the most productive and influential talents from our network that fit absolutely for your business objectives.</p>
                     <p>We begin our collaboration with you by starting a significant analysis on your present and future endeavors.</p>
                     <p>We then come up with a staffing strategy that fills the gaps and your requirements with proficient people for Design, Development/Engineering, Programming, Analysis and Integration, Maintenance, Administration, Support, Management, and Testing for various IT purposes by depicting and detailing when and where you need them.</p>
                 </ServiceComponent>
@@ -64,11 +64,11 @@ export default function ITStaffing() {
             <div className="soft-test-cont4">
                 <ServiceComponent heading="What We Do">
                     <ul>
-                        <li><p>Pioneering in the IT Staff Outsourcing industry, Amtex Info Solutions has a detailed portfolio of providing 10+ years service to customers.</p></li>
+                        <li><p>Pioneering in the IT Staff Outsourcing industry, Grovita Technology has a detailed portfolio of providing 10+ years service to customers.</p></li>
                         <li><p>In order to bridge the talent-demand supply gap, we use the best-in-class techniques that are extensively available for the service, which made us the most preferred IT Staff sourcing service providers for our customers around the world.</p></li>
-                        <li><p>Amtex Info Solutions IT Staffing Services provides you with a vast Database of candidates that are eligible and capable for your requirement, making it easy for you to choose.</p></li>
-                        <li><p>Offering a high flexibility in operations, Amtex Info Solutions IT Staffing Services regulates the costs of outsourcing.</p></li>
-                        <li><p>Settling the traditional methods of IT staffing to scratch, Amtex Info Solutions owns techniques that complete the task in short hiring timelines.</p></li>
+                        <li><p>Grovita Technology IT Staffing Services provides you with a vast Database of candidates that are eligible and capable for your requirement, making it easy for you to choose.</p></li>
+                        <li><p>Offering a high flexibility in operations, Grovita Technology IT Staffing Services regulates the costs of outsourcing.</p></li>
+                        <li><p>Settling the traditional methods of IT staffing to scratch, Grovita Technology owns techniques that complete the task in short hiring timelines.</p></li>
                     </ul>
                 </ServiceComponent>
             </div>

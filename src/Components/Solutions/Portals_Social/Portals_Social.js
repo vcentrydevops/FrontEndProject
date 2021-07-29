@@ -14,7 +14,7 @@ export default function Portals_Social() {
                     </div>
                     <div className="about-content">
                         <p>Provide a rich, interactive and secure environment for accessing, creating, sharing, and discussing online information. Application examples include Intranets, Knowledge Management, eLearning, and Client Extranets.</p>
-                        <p>Amtex Info Solutions Portal and Social Collaboration solutions help organizations achieve a variety of business goals, such as better sharing of business intelligence, improved performance, and higher levels of innovation. By providing a single, comprehensive environment that connects diverse users, legacy processes, and disparate content types, we help our customers create valuable collaborative relationships that were previously impossible due to technical limitations. We extend proprietary applications, and connect people with information and each other regardless of operating system, network, or content type.</p>
+                        <p>Grovita Technology Portal and Social Collaboration solutions help organizations achieve a variety of business goals, such as better sharing of business intelligence, improved performance, and higher levels of innovation. By providing a single, comprehensive environment that connects diverse users, legacy processes, and disparate content types, we help our customers create valuable collaborative relationships that were previously impossible due to technical limitations. We extend proprietary applications, and connect people with information and each other regardless of operating system, network, or content type.</p>
                     </div>
                 </div>
                 <div className="portal-social-img">

@@ -18,7 +18,7 @@ export default function ClientCarousels() {
                 <Carousel activeIndex={index} onSelect={handleSelect}>
                     <Carousel.Item>
                         <div className="clientCarousel-div">
-                            <p>I have many potential vendors contacting me each week, but Amtex Info Solutions stood out from the crowd. They work hard to understand our needs and always responded in a timely fashion. Amtex Info Solutions. is well networked in the industry and helps us succeed in meeting our client's needs</p>
+                            <p>I have many potential vendors contacting me each week, but Grovita Technology stood out from the crowd. They work hard to understand our needs and always responded in a timely fashion. Grovita Technology is well networked in the industry and helps us succeed in meeting our client's needs</p>
                             <div>
                                 <img src={require('../Images/client.png').default} alt="client slider2"></img>
                                 <p>Kristen Box</p>
@@ -28,7 +28,7 @@ export default function ClientCarousels() {
                     </Carousel.Item>
                     <Carousel.Item>
                         <div className="clientCarousel-div">
-                            <p>Amtex Info Solutions has provided me with qualified candidates which my direct clients are in need of. They produce consultants that have the entire skills sets my clients need. I especially like the way there is full and open communication with Amtex Info Solutions, which makes the recruiting process smoother and easier</p>
+                            <p>Grovita Technology has provided me with qualified candidates which my direct clients are in need of. They produce consultants that have the entire skills sets my clients need. I especially like the way there is full and open communication with Grovita Technology, which makes the recruiting process smoother and easier</p>
                             <div>
                                 <img src={require('../Images/client.png').default} alt="client slider2"></img>
                                 <p>Tina Hill</p>

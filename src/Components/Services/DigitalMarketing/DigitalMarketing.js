@@ -66,11 +66,11 @@ export default function DigitalMarketing() {
             <div className="digital-cont2">
                 <ServiceComponent heading="Our Prowess">
                     <ul>
-                        <li><p>Analyzing the changes in digital needs of businesses, Amtex Info Solutions has been providing clients with proven Digital Marketing techniques that promise to reach their targets phenomenally.</p></li>
+                        <li><p>Analyzing the changes in digital needs of businesses, Grovita Technology has been providing clients with proven Digital Marketing techniques that promise to reach their targets phenomenally.</p></li>
                         <li><p>Delivering a technology oriented and completely advanced strategic digital marketing services to the brands, we stand above all.</p></li>
                         <li><p>Having a deft in driving the most successful results for SEO, PPC, SMM, Copywriting & Content Marketing, CRO, ORM, App Store Optimization, and E-mail Marketing, our team is renowned to give the industry best services.</p></li>
                         <li><p>Evolving expertise in various channels of Digital Marketing, our client’s success acknowledges our service quality.</p></li>
-                        <li><p>Thus, working on strategic partnerships with a custom approach to each customer, Amtex Info Solutions has been acquiring globally successful companies as clients till today.</p></li>
+                        <li><p>Thus, working on strategic partnerships with a custom approach to each customer, Grovita Technology has been acquiring globally successful companies as clients till today.</p></li>
                     </ul>
                 </ServiceComponent>
             </div>
