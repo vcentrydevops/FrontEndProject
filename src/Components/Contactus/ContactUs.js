@@ -34,7 +34,8 @@ export default function ContactUs() {
                             <i><FaMapMarkerAlt></FaMapMarkerAlt></i>
                             <div className="adres-div">
                                 <p>Grovita Technology</p>
-                                <p>Old No.74, New No. 124, Sri Balaji Tower,</p>
+                                <p>Old No.74, New No. 124,</p>
+                                <p>Sri Balaji Tower,</p>
                                 <p>Mount Road,</p>
                                 <p>Guindy,</p>
                                 <p>Chennai – 600032.</p>
