@@ -16,7 +16,7 @@ export default function ControlledCarousel() {
                     <Carousel.Caption className="carousel-cap">
                         <div>
                             <p>Our Technologies</p>
-                            <p>Amtex Info Solutions provides end-to-end solutions across a spectrum of business processes.</p>
+                            <p>Grovita Technologies provides end-to-end solutions across a spectrum of business processes.</p>
                         </div>
                     </Carousel.Caption>
                     <img
