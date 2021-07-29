@@ -82,7 +82,7 @@ export default function Footer() {
                 </div>
             </div>
             <div className="copyright-div">
-                <p>Copyright 2019 © <NavLink to="/" onClick={scrollUp}>grovitatechnology</NavLink>. Designed by <NavLink to="/">Venkat Nagaram</NavLink></p>
+                <p>Copyright 2019 © <NavLink to="/" onClick={scrollUp}>grovitatechnology</NavLink>. Designed by <NavLink to="/">VCentry Technologies</NavLink></p>
             </div>
         </footer>
     )
